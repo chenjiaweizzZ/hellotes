@@ -1,3 +1,3 @@
-
+import "./service/modules/home"
 
 
